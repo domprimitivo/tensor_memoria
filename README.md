@@ -1,6 +1,6 @@
 # Profinite Memory Tensor ($\mathcal{M}$) for Non-Linear Dynamical Systems
 
-> **A computable, open-source mathematical framework for detecting arrow-of-time inversions, phase transitions, and overcoming linear model collapse in non-linear regimes.**
+> **A computable, open-source mathematical framework for detecting arrow inversions, phase transitions, and overcoming linear model collapse in non-linear regimes.**
 
 ---
 
