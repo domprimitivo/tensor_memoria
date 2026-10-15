@@ -77,3 +77,4 @@ This code and its underlying mathematical proofs are released under the **MIT Li
 * **What the Commercial System provides**: Operating on this non-linear complexity requires **Data Acquisition, Cleaning & Structuring**, the **7 Cantor Inverse KPIs** (Permeability, TR Tension, Suture, Return to Ground, Stagnation, Phase Rupture, Resonance), and the **Three Brothers Control Loop** (Short, Medium, Long) integrated into the **Ágora Level 1 Prudential Navigation Platform**.
 
 To learn more about industrial deployment, commercial licensing, or the Ágora Level 1 Software Platform, refer to the documentation or contact the authors.
+Antonio García Poujol. 2026
