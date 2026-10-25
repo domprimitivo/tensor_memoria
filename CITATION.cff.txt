@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this work, software, or theoretical framework, please cite it using the metadata below."
+title: "Profinite Memory Tensor (M): Overcoming Arrhenius Model Collapse in Non-Linear NTC Cold Flames"
+abstract: >-
+  Predictive models in non-linear kinetics and fluid dynamics collapse during regime transitions 
+  such as the Negative Temperature Coefficient (NTC) cold flame region (T = 840–920 K), 
+  where Arrhenius kinetics exhibits a 51.10% relative error due to blindness toward local 
+  arrow-of-time inversions. This repository implements the Profinite Memory Tensor (M) framework, 
+  unifying inverse limits, Young measures, and a topological trace operator (H) governed by a 
+  Dirac jump condition. Validated across 814 reaction conditions in Cantera (GRI-Mech 3.0), it 
+  reduces transition error to 1.37% (RMSE = 0.0500, R² = 0.9900) and detects entropy "arrow"
+  inversion through a sign flip in H (from -0.213 to +0.951), with jump continuity in weak 
+  solutions formally machine-checked in Lean 4.
+type: software
+authors:
+  - given-names: Antonio
+    family-names: García Poujol
+
+version: 1.0.0
+date-released: 2026-10-25
+license: Apache-2.0 o GPL-3.0 si prefieres otra licencia
+repository-code: https://github.com/domprimitivo/tensor_memoria
+keywords:
+  - "profinite-tensor"
+  - "formal-verification"
+  - "lean-4"
+  - "cantera"
+  - "chemical-kinetics"
+  - "non-linear-dynamics"
+  - "negative-temperature-coefficient"
+  - "prudential-navigation"
+  - "physics-informed-ml"
