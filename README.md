@@ -1,8 +1,9 @@
+[![DOI](https://zenodo.org/badge/1400846281.svg)](https://doi.org/10.5281/zenodo.23646183)
 # Profinite Memory Tensor ($\mathcal{M}$) for Non-Linear Dynamical Systems
 
 > **A computable, open-source mathematical framework for detecting arrow inversions, phase transitions, and overcoming linear model collapse in non-linear regimes.**
 
----
+
 
 ## 📌 Overview
 
