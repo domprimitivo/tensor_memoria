@@ -17,7 +17,7 @@ This repository provides the open-source implementation and empirical validation
 
 When non-linear feedback and autocatalytic loops dominate, classical models fail in two fundamental ways:
 1. **Error Explosion**: Arrhenius regressions trained on pre-ignition data extrapolate to non-linear transition zones with a **51.10% relative error** (RMSE $0.5272$), suffering a **5,110x performance degradation factor**.
-2. **Topological Blindness**: Classical models cannot detect **arrow-of-time inversions**—the local reversal of entropy production and spin during phase transitions. They continue to project smooth, accelerated trajectories where physical reality changes direction.
+2. **Topological Blindness**: Classical models cannot detect **arrow inversions**—the local reversal of entropy production and spin during phase transitions. They continue to project smooth, accelerated trajectories where physical reality changes direction.
 
 ---
 
