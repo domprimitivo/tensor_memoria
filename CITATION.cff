@@ -18,7 +18,7 @@ authors:
 
 version: 1.0.0
 date-released: 2026-10-25
-license: Apache-2.0 o GPL-3.0 si prefieres otra licencia
+license: Apache-2.0 
 repository-code: https://github.com/domprimitivo/tensor_memoria
 keywords:
   - "profinite-tensor"
